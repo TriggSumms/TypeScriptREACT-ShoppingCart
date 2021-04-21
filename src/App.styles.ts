@@ -5,6 +5,7 @@ export const Wrapper = styled.div`
   margin: 40px;
 `;
 
+//Creates a specific button for the app
 export const StyledButton = styled(IconButton)`
   position: fixed;
   z-index: 100;

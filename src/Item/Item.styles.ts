@@ -1,5 +1,8 @@
 import styled from 'styled-components';
 
+
+// LOVE styled components setup, Lets you easily pair components with organized CSS. Nesting at its best
+
 export const Wrapper = styled.div`
   display: flex;
   justify-content: space-between;
